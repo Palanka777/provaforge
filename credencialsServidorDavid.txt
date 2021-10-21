@@ -1,0 +1,8 @@
+Your server is provisioning. The provisioning process typically takes about 10 minutes, and completely configures your new App server.
+
+We have generated random passwords for your server. Do not lose your "sudo" password as we do not store a copy of this value.
+
+Sudo Password: 
+8v89urwdCrQO4RRjGrzT
+Database Password: 
+G5ye7FPSc5VD1Bzf1IQf
